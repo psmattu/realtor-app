@@ -18,3 +18,4 @@ This command has to be run in both the root directory and the client directory.
 
 Going to the following link [http://localhost:5173/sign-in](http://localhost:5173/sign-in) to view the app in your browser.
 
+**NOTE** this project is still a work in progress
